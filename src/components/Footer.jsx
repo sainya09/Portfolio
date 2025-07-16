@@ -21,7 +21,7 @@ const Footer = () => {
         
         <div className="mt-6 pt-6 border-t border-dark-800 text-center">
           <p className="text-dark-400 text-sm">
-            Built with React, TypeScript, Tailwind CSS, and Framer Motion
+            Built with React, JavaScript, Tailwind CSS, and Framer Motion
           </p>
         </div>
       </div>
